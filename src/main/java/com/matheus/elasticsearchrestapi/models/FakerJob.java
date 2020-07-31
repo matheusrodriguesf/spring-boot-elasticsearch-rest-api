@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 public class FakerJob {
 	private String title;
 	private String location;
-	private String companyProfile;
 	private String description;
 	private String requirements;
 	private String benefits;
